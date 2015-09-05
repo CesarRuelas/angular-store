@@ -1,0 +1,6 @@
+- Official Angular documentation:
+  + https://docs.angularjs.org/api
+- Egghead tutorials: 
+  + https://egghead.io/technologies/angularjs
+- Thinkster:
+  + https://thinkster.io/a-better-way-to-learn-angularjs/

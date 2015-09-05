@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Dodecahedron",
+		"price": 2,
+		"description": "This is our fanciest gem",
+		"images": [
+	    	"img/gem-02.gif",
+	        "img/gem-05.gif",
+	        "img/gem-09.gif"
+	    ],
+		"reviews" : [
+			{
+				"stars": 5,
+				"body": "I love this product!",
+				"author": "joe@thomas.com"
+			},
+			{
+				"stars": 1,
+				"body": "This product sucks.",
+				"author": "tim@hater.com"
+			}
+		]
+	},
+	{
+		"name": "Pentagonal Gem",
+		"price": 5.95,
+		"description": "This is our 5-sided gem",
+		"images": [
+	        "img/gem-01.gif",
+	        "img/gem-03.gif",
+	        "img/gem-04.gif"
+	    ],
+		"reviews" : [
+			{
+				"stars": 5,
+				"body": "I love this product!",
+				"author": "joe@thomas.com"
+			},
+			{
+				"stars": 1,
+				"body": "This product sucks.",
+				"author": "tim@hater.com"
+			}
+		]
+	}
+]

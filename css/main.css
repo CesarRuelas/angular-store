@@ -1,0 +1,37 @@
+ul {
+	list-style:none;
+	padding:0;
+}
+
+.img-wrap {
+	text-align:center;
+}
+
+.img-thumbnails img {
+	width:60px;
+}
+
+.img-thumbnails {
+	text-align: center;
+}
+
+.ng-invalid.ng-dirty {
+	border-color:#FA787E;
+}
+
+.ng-valid.ng-dirty {
+	border-color:#78FA89;
+}
+
+.container {
+    margin: auto;
+    max-width: 700px;
+}
+
+.img-container {
+	text-align: center;
+}
+
+.img-gallery {
+    display:inline-block;
+}
